@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: orheqw6j2-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/orheqw6j2-python
